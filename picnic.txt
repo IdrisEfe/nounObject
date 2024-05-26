@@ -1,0 +1,3 @@
+Ýdris          2 eggs
+Efe      1 liter milk
+dtype: object
